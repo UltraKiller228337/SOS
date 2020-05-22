@@ -1,0 +1,21 @@
+.btn {
+	padding: 20px;
+	background: var(--c-orange-gradient);
+
+	color: var(--c-black);
+	font-weight: bold;
+	font-size: 15px;
+
+	border-radius: 4px;
+}
+
+.btn__divider {
+	border-left: 1px solid var(--c-black);
+	margin: 0 10px;
+}
+
+@media screen and (max-width: 1023px) {
+	.btn {
+		font-size: 12px;
+	}
+}

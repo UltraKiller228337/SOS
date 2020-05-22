@@ -1,0 +1,16 @@
+.nav__link {
+	color: var(--c-white);
+
+	text-transform: uppercase;
+
+	margin-right: 40px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+@media screen and (max-width: 1023px) {
+	.nav__link {
+		display: none;
+	}
+}

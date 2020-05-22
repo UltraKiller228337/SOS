@@ -1,0 +1,17 @@
+.scroll-down {
+	text-transform: uppercase;
+}
+
+.scroll-down:before {
+	display: block;
+	content: "";
+
+	position: absolute;
+	bottom: 50px;
+
+	height: 10px;
+	width: 23px;
+
+	background-repeat: no-repeat;
+	background-image: url(../img/delta.png);
+}
