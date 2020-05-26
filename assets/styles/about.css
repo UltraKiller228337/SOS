@@ -1,0 +1,39 @@
+.content.-about {
+	width: 40vw;
+}
+
+.pictures {
+	position: relative;
+
+	width: 60vw;
+}
+
+
+.picture.-xl {
+	position: absolute;
+
+	width: 500px;
+	height: 610px;
+
+	z-index: 3;
+}
+
+.picture.-l {
+	position: absolute; 
+	left: 100px;
+
+	width: 440px;
+	height: 560px;
+
+	z-index: 2;
+}
+
+.picture.-m {
+	position: absolute;
+	left: 80px;
+
+	width: 440px;
+	height: 510px;
+
+	z-index: 1;
+}

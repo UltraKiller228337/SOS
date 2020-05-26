@@ -21,3 +21,10 @@ section.-hero {
 	background-size: cover;
 	background-position: center;
 }
+
+section.-about {
+	background-image: url(../img/what-is-sos_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}

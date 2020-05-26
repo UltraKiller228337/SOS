@@ -58,6 +58,8 @@ header {
 
 .burger {
 	transform: rotate(180deg);
+
+	display: none;
 }
 
 .burger__layer {
@@ -86,6 +88,10 @@ header {
 
 	.header__lang {
 		margin-right: 20px;
+	}
+
+	.burger	{
+		display: block;
 	}
 }
 
