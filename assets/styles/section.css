@@ -1,5 +1,5 @@
 section {
-	min-height: 100vh;
+	min-height: 130vh;
 
 	display: flex;
 	align-items: center;
@@ -24,6 +24,13 @@ section.-hero {
 
 section.-about {
 	background-image: url(../img/what-is-sos_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+section.-features {
+	background-image: url(../img/features_bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
