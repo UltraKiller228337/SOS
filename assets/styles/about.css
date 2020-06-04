@@ -101,10 +101,6 @@
 }
 
 @media screen and (max-width: 1024px) {
-	.about__info {
-		
-	}
-
 	.slider.-xl {
 		height: 560px;
 		width: 460px;
