@@ -35,3 +35,10 @@ section.-features {
 	background-size: cover;
 	background-position: center;
 }
+
+section.-reqs {
+	background-image: url(../img/reqs_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
